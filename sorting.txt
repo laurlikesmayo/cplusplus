@@ -1,0 +1,6 @@
+insertion sort - will take the array[y] and compare it to the elements before it (array[y-()])until it is not smaller than the element behind it. repeat y times in len(array). y++
+
+bubble sort - will compare the the element array[y] to the element infront of it (array[y+1]) and if its greater then will change pos w it. repeat len(array)-1 times, y++
+
+min sort- will find the smallest number in the list then put it in the smallest position, then will take the smallest num of the list left and put it in the second smallest pos, then so on 
+counting sort - for multiple values: will sort each number of values into different lists then combine them all together into one big one
