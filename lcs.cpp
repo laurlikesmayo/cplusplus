@@ -35,6 +35,6 @@ int main(){
         }
     }
 
-    cout << nice[n][m]
+    cout << nice[n][m];
 
 }

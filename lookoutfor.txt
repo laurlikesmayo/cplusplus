@@ -1,0 +1,9 @@
+In dp
+baseccase
+memset
+indexing
+
+
+dp in graph
+topdown or like other 
+which way to add to adjlsit
